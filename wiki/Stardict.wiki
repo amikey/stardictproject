@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#星际译王是跨平台的国际词典开源软件，永远免费，拥有上千本字典文件
 
 = Introduction =
 
@@ -15,10 +15,3 @@
 
 4. _鼠标取词_:
    打开星际译王软件，选中界面取词功能，如左侧图中底部红色区域的所示，便可以在浏览界面内随时查看翻译解释。
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
